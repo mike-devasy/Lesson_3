@@ -1,0 +1,24 @@
+.blue {
+  color: blue;
+}
+h2,
+ul {
+  color: green;
+}
+h1,
+h5 {
+  color: red;
+}
+a {
+  color: rgb(3, 56, 38);
+}
+.jumping {
+  color: rgb(134, 46, 134);
+}
+h3 {
+  color: rgb(60, 112, 8);
+}
+.paraplan,
+.airball {
+  color: rgb(190, 13, 122);
+}
